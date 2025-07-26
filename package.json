@@ -1,0 +1,20 @@
+{
+  "name": "geowiki-module-merge-line-strings",
+  "version": "0.0.0",
+  "description": "Merge MultiLineStrings into LineStrings",
+  "main": "src/mergeLineStrings.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geowiki-net/geowiki-module-merge-line-strings.git"
+  },
+  "author": "Stephan Bösch-Plepelits <skunk@xover.mud.at>",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/geowiki-net/geowiki-module-merge-line-strings/issues"
+  },
+  "homepage": "https://github.com/geowiki-net/geowiki-module-merge-line-strings#readme",
+  "dependencies": {
+    "twig": "^1.17.1"
+  }
+}
